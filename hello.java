@@ -4,6 +4,6 @@ public class hello {
 
     }
     public static void hi(){
-        System.out.println("I love Jesus");
+        System.out.println("I love esus");
     }
 }
